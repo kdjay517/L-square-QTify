@@ -1,0 +1,20 @@
+.button {
+
+    padding: 10px;
+    border-radius: 5px;
+    background-color: #000; /* Black background */
+    color: #00ff00; /* Green text */
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 20px;
+    cursor: pointer;
+    font-family: "Poppins", sans-serif;
+    Width: 170px;
+    Height: 47px;
+    font-size:medium;
+
+}
+.button:hover {
+    background-color: #00ff00; /* Green background on hover */
+    color: #000; /* Black text on hover */
+}
